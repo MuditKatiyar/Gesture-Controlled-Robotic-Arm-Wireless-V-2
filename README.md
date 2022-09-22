@@ -18,7 +18,10 @@ Figure 2 Top View
 ![image](https://user-images.githubusercontent.com/113198082/191373655-e1e59456-11e9-482b-af14-2f52a310aeb3.png)
 
 Figure 3 Glove View
-Glove for wireless controlling with NRF24L01 module connected to Arduino Nano.
 
+Glove for wireless controlling with NRF24L01 module connected to Arduino Nano. An arduino Nano are connect with the MPU6050 & transmittor (NRF24L01) for taking the value as an input from MPU6050 about the position of MPU6050 in space and at the same time transmitting it to the reciver part as a command to move the Robotic arm in accordance to the MPU6050 location value in space.
 
+## Vedio LINK
+  https://drive.google.com/file/d/10_TR2ELHgleZ9YeFJvPEgeQyZtxV6Q7w/view?usp=sharing
+  https://drive.google.com/file/d/18Fwr5JfYXEmdJc8MkJiGaLrcwjv00q08/view?usp=sharing
 
