@@ -23,6 +23,7 @@ Glove for wireless controlling with NRF24L01 module connected to Arduino Nano. A
 
 ## Vedio LINK
     https://drive.google.com/file/d/10_TR2ELHgleZ9YeFJvPEgeQyZtxV6Q7w/view?usp=sharing
+    
     https://drive.google.com/file/d/18Fwr5JfYXEmdJc8MkJiGaLrcwjv00q08/view?usp=sharing
     
 The codes are uploaded within the repository for Transmittor and Reciever.
